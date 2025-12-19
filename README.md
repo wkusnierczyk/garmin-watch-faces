@@ -10,7 +10,7 @@ The following projects are available:
   A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as French Revolutionary time (Decimal time).
 * [**Roman Time**](https://github.com/wkusnierczyk/garmin-roman-time)  
   A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as Roman numerals.
-* [**Swatch Time**](https://github.com/wkusnierczyk/garmin-roman-time)  
+* [**Swatch Time**](https://github.com/wkusnierczyk/garmin-swatch-time)  
   A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time in Biel, Switzerland, Swatch beats.
 
 The watch faces use open source fonts, downloaded from [Google fonts](https://fonts.google.com/), converted from `ttf` to `fnt` and `png` pairs with the open source tool [`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp).
