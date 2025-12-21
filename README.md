@@ -8,6 +8,8 @@ The following projects are available:
   A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as English words.
 * [**French Time**](https://github.com/wkusnierczyk/garmin-french-time)  
   A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as French Revolutionary time (Decimal time).
+* [**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time)
+  A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time with Morse digits. 
 * [**Roman Time**](https://github.com/wkusnierczyk/garmin-roman-time)  
   A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as Roman numerals.
 * [**Swatch Time**](https://github.com/wkusnierczyk/garmin-swatch-time)  
