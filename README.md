@@ -2,9 +2,8 @@
 A collection of unconventional Garmin watch faces
 
 This is a `README.md`-only repository providing an entry point to a collection of custom, unconventional Garmin watch faces.
-The following projects are available:
 
-|Example screenshot|Description|
+|Screenshot|Description|
 |:-|:-|
 |![](https://github.com/wkusnierczyk/garmin-english-time/blob/main/resources/graphics/08-28.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time): A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as English words.|
 |![](https://github.com/wkusnierczyk/garmin-french-time/blob/main/resources/graphics/french.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time): A minimalist, elegant, typography-focused Garmin Connect IQ watch face that displays the current time as French Revolutionary time (Decimal time).|
