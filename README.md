@@ -3,7 +3,7 @@ A collection of unconventional, minimalistic, elegant, open-source Garmin watch 
 
 |Screenshot|Description|
 |:-|:-|
-|![](https://github.com/wkusnierczyk/garmin-base-time/blob/main/resources/graphics/base-binary.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time) displays the current time using base _n_ numerals, _n_ = 2..16.
+|![](https://github.com/wkusnierczyk/garmin-base-time/blob/main/resources/graphics/base-binary.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time): displays the current time using base _n_ numerals, _n_ = 2..16.
 |![](https://github.com/wkusnierczyk/garmin-english-time/blob/main/resources/graphics/08-28.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time): displays the current time as English words.|
 |![](https://github.com/wkusnierczyk/garmin-french-time/blob/main/resources/graphics/french.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time): displays the current time as French Revolutionary time (Decimal time).|
 |![](https://github.com/wkusnierczyk/garmin-morse-time/blob/main/resources/graphics/morse.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time): displays the current time with Morse digits.|
