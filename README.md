@@ -1,5 +1,7 @@
 # Garmin Watch Faces
-A collection of unconventional, minimalistic, elegant, open-source Garmin watch faces
+A collection of unconventional, minimalistic, elegant, open-source Garmin watch faces.
+
+The watch faces are available from the [Garmin Connect IQ Developer portal](https://apps.garmin.com/developer/84aa79b0-5787-481d-bb10-8c5015ac1158/apps).
 
 |Screenshot|Description|
 |:-|:-|
