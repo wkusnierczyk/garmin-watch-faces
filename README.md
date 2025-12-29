@@ -6,7 +6,7 @@ The watch faces are available from the [Garmin Connect IQ Developer portal](http
 |Screenshot|Description|
 |:-|:-|
 |![Base Time](https://github.com/wkusnierczyk/garmin-base-time/blob/main/resources/graphics/base-binary.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time): displays the current time using base _n_ numerals, _n_ = 2..16.|
-|![Braille Time](https://github.com/wkusnierczyk/garmin-braille-time/blob/main/resources/graphics/braille.png)|[**Braille Time**](https://github.com/wkusnierczyk/garmin-braille-time): displays the current time using Braille digits.|
+|![Braille Time](https://github.com/wkusnierczyk/garmin-braille-time/blob/main/resources/graphics/BrailleTimeHero1.png)|[**Braille Time**](https://github.com/wkusnierczyk/garmin-braille-time): displays the current time using Braille digits.|
 |![English Time](https://github.com/wkusnierczyk/garmin-english-time/blob/main/resources/graphics/08-28.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time): displays the current time as English words.|
 |![French Time](https://github.com/wkusnierczyk/garmin-french-time/blob/main/resources/graphics/french-color.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time): displays the current time as French Revolutionary time (Decimal time).|
 |![Morse Time](https://github.com/wkusnierczyk/garmin-morse-time/blob/main/resources/graphics/morse.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time): displays the current time with Morse digits.|
