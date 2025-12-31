@@ -1,7 +1,16 @@
 # Garmin Watch Faces
+
 A collection of unconventional, minimalistic, elegant, open-source Garmin watch faces.
 
-The watch faces are available from the [Garmin Connect IQ Developer portal](https://apps.garmin.com/developer/84aa79b0-5787-481d-bb10-8c5015ac1158/apps).
+**Availability**  
+The watch faces are available from the [Garmin Connect IQ Developer portal](https://apps.garmin.com/developer/84aa79b0-5787-481d-bb10-8c5015ac1158/apps).  
+All faces were developed as open-source projects, and are available from GitHub. See links in the table below.
+
+**Fonts**  
+The watch faces use open source fonts, downloaded from [Google fonts](https://fonts.google.com/).  
+The fonts were converted from `ttf` to `fnt` and `png` pairs with the open source tool [`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp).  
+The fonts were scaled to support multiple Garmin watch screen resolutions using the open source tool [`garmin-font-scaler`](https://github.com/wkusnierczyk/garmin-font-scaler).
+
 
 |Screenshot|Description|
 |:-|:-|
@@ -12,5 +21,3 @@ The watch faces are available from the [Garmin Connect IQ Developer portal](http
 |![Morse Time](https://github.com/wkusnierczyk/garmin-morse-time/blob/main/resources/graphics/morse.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time): displays the current time with Morse digits.|
 |![Roman Time](https://github.com/wkusnierczyk/garmin-roman-time/blob/main/resources/graphics/xxiv-xxxviii-double.png)|[**Roman Time**](https://github.com/wkusnierczyk/garmin-roman-time): displays the current time as Roman numerals.|
 |![Swatch Time](https://github.com/wkusnierczyk/garmin-swatch-time/blob/main/resources/graphics/swatch-time-dot.png)|[**Swatch Time**](https://github.com/wkusnierczyk/garmin-swatch-time): displays the time in Biel, Switzerland, as Swatch beats.|
-
-The watch faces use open source fonts, downloaded from [Google fonts](https://fonts.google.com/), converted from `ttf` to `fnt` and `png` pairs with the open source tool [`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp).
