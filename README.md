@@ -2,7 +2,7 @@
 
 A collection of unconventional, minimalistic, elegant, open-source Garmin watch faces.
 
-![Faces](resources/graphics/WatchFaces.png)
+![Faces](resources/graphics/WatchFacesHero1.png)
 
  ### Availability
 
@@ -20,13 +20,13 @@ All faces were developed as open-source projects, and are available from GitHub.
 
 |Screenshot|Description|
 |:-|:-|
-|![Base Time](https://github.com/wkusnierczyk/garmin-base-time/blob/main/resources/graphics/base-binary.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time)<br /> Current time as base _n_ numerals, _n_ = 2..16.|
-|![Braille Time](https://github.com/wkusnierczyk/garmin-braille-time/blob/main/resources/graphics/BrailleTimeHero1.png)|[**Braille Time**](https://github.com/wkusnierczyk/garmin-braille-time)<br /> Current time as Braille digits.|
-|![Daynight Time](https://github.com/wkusnierczyk/garmin-daynight-time/blob/main/resources/graphics/DaynightTime3.png)|[**Daynight Time**](https://github.com/wkusnierczyk/garmin-daynight-time)<br /> Current time as the position of the sun across the sky, with a greeting.|
-|![English Time](https://github.com/wkusnierczyk/garmin-english-time/blob/main/resources/graphics/08-28.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time)<br /> Current time as English words.|
-|![French Time](https://github.com/wkusnierczyk/garmin-french-time/blob/main/resources/graphics/french-color.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time)<br /> Current time as French Revolutionary time (Decimal time).|
-|![Morse Time](https://github.com/wkusnierczyk/garmin-morse-time/blob/main/resources/graphics/morse.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time)<br /> Current time as Morse digits.|
-|![Piechart Time](https://github.com/wkusnierczyk/garmin-piechart-time/blob/main/resources/graphics/PiechartTimeHorizontal.png)|[**Piechart Time**](https://github.com/wkusnierczyk/garmin-piechart-time)<br /> Current time as piecharts.|
-|![Progress Time](https://github.com/wkusnierczyk/garmin-progress-time/blob/main/resources/graphics/ProgressTime2.png)|[**Progress Time**](https://github.com/wkusnierczyk/garmin-piechart-time)<br /> Current time as progress bars.|
-|![Roman Time](https://github.com/wkusnierczyk/garmin-roman-time/blob/main/resources/graphics/xxiv-xxxviii-double.png)|[**Roman Time**](https://github.com/wkusnierczyk/garmin-roman-time)<br /> Current time as Roman numerals.|
-|![Swatch Time](https://github.com/wkusnierczyk/garmin-swatch-time/blob/main/resources/graphics/swatch-time-dot.png)|[**Swatch Time**](https://github.com/wkusnierczyk/garmin-swatch-time)<br /> Time in Biel, Switzerland, as Swatch beats.|
+|![Base Time](resources/graphics/BaseTime.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time)<br /> Current time as base _n_ numerals, _n_ = 2..16.|
+|![Braille Time](resources/graphics/BrailleTime.png)|[**Braille Time**](https://github.com/wkusnierczyk/garmin-braille-time)<br /> Current time as Braille digits.|
+|![Daynight Time](resources/graphics/DaynightTime.png)|[**Daynight Time**](https://github.com/wkusnierczyk/garmin-daynight-time)<br /> Current time as the position of the sun across the sky, with a greeting.|
+|![English Time](resources/graphics/EnglishTime.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time)<br /> Current time as English words.|
+|![French Time](resources/graphics/FrenchTime1.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time)<br /> Current time as French Revolutionary time (Decimal time).|
+|![Morse Time](resources/graphics/MorseTime.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time)<br /> Current time as Morse digits.|
+|![Piechart Time](resources/graphics/PiechartTime2.png)|[**Piechart Time**](https://github.com/wkusnierczyk/garmin-piechart-time)<br /> Current time as piecharts.|
+|![Progress Time](resources/graphics/ProgressTime.png)|[**Progress Time**](https://github.com/wkusnierczyk/garmin-piechart-time)<br /> Current time as progress bars.|
+|![Roman Time](resources/graphics/RomanTime.png)|[**Roman Time**](https://github.com/wkusnierczyk/garmin-roman-time)<br /> Current time as Roman numerals.|
+|![Swatch Time](resources/graphics/SwatchTime.png)|[**Swatch Time**](https://github.com/wkusnierczyk/garmin-swatch-time)<br /> Time in Biel, Switzerland, as Swatch beats.|

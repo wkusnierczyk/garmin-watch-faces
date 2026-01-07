@@ -1,1 +1,14 @@
 resources/graphics/WatchFaces.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/BaseTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/FrenchTime1.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/FrenchTime2.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/MorseTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/PiechartTime1.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/PiechartTime2.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/ProgressTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/RomanTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/BrailleTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/DaynightTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/EnglishTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/SwatchTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/WatchFacesHero1.png filter=lfs diff=lfs merge=lfs -text
