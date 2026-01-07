@@ -22,6 +22,7 @@ All faces were developed as open-source projects, and are available from GitHub.
 |:-|:-|
 |![Base Time](https://github.com/wkusnierczyk/garmin-base-time/blob/main/resources/graphics/base-binary.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time)<br /> Current time as base _n_ numerals, _n_ = 2..16.|
 |![Braille Time](https://github.com/wkusnierczyk/garmin-braille-time/blob/main/resources/graphics/BrailleTimeHero1.png)|[**Braille Time**](https://github.com/wkusnierczyk/garmin-braille-time)<br /> Current time as Braille digits.|
+|![Daynight Time](https://github.com/wkusnierczyk/garmin-daynight-time/blob/main/resources/graphics/DaynightTime1.png)|[**Daynight Time**](https://github.com/wkusnierczyk/garmin-daynight-time)<br /> Current time as the position of the sun across the sky, with a greeting.|
 |![English Time](https://github.com/wkusnierczyk/garmin-english-time/blob/main/resources/graphics/08-28.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time)<br /> Current time as English words.|
 |![French Time](https://github.com/wkusnierczyk/garmin-french-time/blob/main/resources/graphics/french-color.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time)<br /> Current time as French Revolutionary time (Decimal time).|
 |![Morse Time](https://github.com/wkusnierczyk/garmin-morse-time/blob/main/resources/graphics/morse.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time)<br /> Current time as Morse digits.|
