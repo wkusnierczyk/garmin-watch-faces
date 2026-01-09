@@ -12,3 +12,4 @@ resources/graphics/DaynightTime.png filter=lfs diff=lfs merge=lfs -text
 resources/graphics/EnglishTime.png filter=lfs diff=lfs merge=lfs -text
 resources/graphics/SwatchTime.png filter=lfs diff=lfs merge=lfs -text
 resources/graphics/WatchFacesHero1.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics filter=lfs diff=lfs merge=lfs -text
