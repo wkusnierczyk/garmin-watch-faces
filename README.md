@@ -21,6 +21,7 @@ All faces were developed as open-source projects, and are available from GitHub.
 |Screenshot|Description|
 |:-|:-|
 |![Base Time](resources/graphics/BaseTime.png)|[**Base Time**](https://github.com/wkusnierczyk/garmin-base-time)<br /> Current time as base _n_ numerals, _n_ = 2..16.|
+|![Binary Time](resources/graphics/BinaryTime.png)|[**Binary Time**](https://github.com/wkusnierczyk/garmin-binary-time)<br /> Current time as a grid of squares representing binary digits for hours, minutes, and seconds.|
 |![Braille Time](resources/graphics/BrailleTime.png)|[**Braille Time**](https://github.com/wkusnierczyk/garmin-braille-time)<br /> Current time as Braille digits.|
 |![Daynight Time](resources/graphics/DaynightTime.png)|[**Daynight Time**](https://github.com/wkusnierczyk/garmin-daynight-time)<br /> Current time as the position of the sun across the sky, with a greeting.|
 |![English Time](resources/graphics/EnglishTime.png)|[**English Time**](https://github.com/wkusnierczyk/garmin-english-time)<br /> Current time as English words.|
