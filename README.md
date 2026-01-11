@@ -29,7 +29,7 @@ All faces were developed as open-source projects, and are available from GitHub.
 |![French Time](resources/graphics/FrenchTime1.png)|[**French Time**](https://github.com/wkusnierczyk/garmin-french-time)<br /> Current time as French Revolutionary time (Decimal time).|
 |![Morse Time](resources/graphics/MorseTime.png)|[**Morse Time**](https://github.com/wkusnierczyk/garmin-morse-time)<br /> Current time as Morse digits.|
 |![Piechart Time](resources/graphics/PiechartTime2.png)|[**Piechart Time**](https://github.com/wkusnierczyk/garmin-piechart-time)<br /> Current time as piecharts.|
-|![Progress Time](resources/graphics/ProgressTime.png)|[**Progress Time**](https://github.com/wkusnierczyk/garmin-piechart-time)<br /> Current time as progress bars.|
+|![Progress Time](resources/graphics/ProgressTime.png)|[**Progress Time**](https://github.com/wkusnierczyk/garmin-progress-time)<br /> Current time as progress bars.|
 |![Radar Time](resources/graphics/RadarTime.png)|[**Radar Time**](https://github.com/wkusnierczyk/garmin-radar-time)<br /> Current time as radar screen.|
 |![Roman Time](resources/graphics/RomanTime.png)|[**Roman Time**](https://github.com/wkusnierczyk/garmin-roman-time)<br /> Current time as Roman numerals.|
 |![Swatch Time](resources/graphics/SwatchTime.png)|[**Swatch Time**](https://github.com/wkusnierczyk/garmin-swatch-time)<br /> Time in Biel, Switzerland, as Swatch beats.|
