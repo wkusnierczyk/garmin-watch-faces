@@ -15,3 +15,6 @@ resources/graphics/WatchFacesHero1.png filter=lfs diff=lfs merge=lfs -text
 resources/graphics filter=lfs diff=lfs merge=lfs -text
 resources/graphics/FancyfontTime.png filter=lfs diff=lfs merge=lfs -text
 resources/graphics/BinaryTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/MatrixTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/RadarTime.png filter=lfs diff=lfs merge=lfs -text
+resources/graphics/EpochTime.png filter=lfs diff=lfs merge=lfs -text
