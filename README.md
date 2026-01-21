@@ -4,6 +4,18 @@ A collection of unconventional, minimalistic, elegant, open-source Garmin watch 
 
 ![Faces](resources/graphics/WatchFacesHero1.png)
 
+> ## Why?
+> 
+> While there is a vast selection of watch faces available from Garmin and third party designers and developers, it appears to be difficult to find elegant, simple, innovative designs that do not focus on displaying all possible metrics at once on the small screen.
+> 
+> The **Garmin Watch Faces** collection aims at filling this gap.
+> The presented watch faces have one **key design principle**: offer something new, carefully crafted, pleasant to look at, intriguing.
+>
+> Being a free and open-source project developed in spare time, Garmin Watch Faces does not intend to provide a complete user experience.
+> The customisation options are limited, some of the watch faces do not expose any user settings at all.
+> This is partially by design (minimalism and simplicity), but contributions expanding the functionality are welcome.
+
+
  ### Availability
 
 The watch faces are available from the [Garmin Connect IQ Developer portal](https://apps.garmin.com/developer/84aa79b0-5787-481d-bb10-8c5015ac1158/apps).  
