@@ -16,7 +16,7 @@ A collection of unconventional, minimalistic, elegant, open-source Garmin watch 
 > This is partially by design (minimalism and simplicity), but contributions expanding the functionality are welcome.
 
 
- ### Availability
+## Availability
 
 The watch faces are available from the [Garmin Connect IQ Developer portal](https://apps.garmin.com/developer/84aa79b0-5787-481d-bb10-8c5015ac1158/apps).  
 
@@ -28,7 +28,7 @@ All faces were developed as open-source projects, and are available from GitHub.
 |[`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp)|Most Garmin watches do not support scalable fonts, and require bitmap fonts with specific sizes instead. For projects listed here, TTF fonts were converted to bitmaps (`.fnt` font description and `.png` font image files) using the open source tool [`ttf2bmp`](https://github.com/wkusnierczyk/ttf2bmp).|
 |[`garmin-font-scaler`](https://github.com/wkusnierczyk/garmin-font-scaler)|To adapt the non-scalable bitmap fonts to various screen resolutions and shapes, the fonts were scaled using `ttf2bmp` with the open source automation tool [`garmin-font-scaler`](https://github.com/wkusnierczyk/garmin-font-scaler).|
 
-### Collection
+## Watch face collection
 
 |Screenshot|Description|
 |:-|:-|
